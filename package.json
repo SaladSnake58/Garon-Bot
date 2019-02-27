@@ -3,7 +3,7 @@
   "description": "Best Friend Retard Bot",
   "main": "index.js",
   "scripts": {
-    "test": "node input.js"
+    "test": "node index.js"
   },
   "author": "Miles",
   "license": "ISC"
